@@ -1,0 +1,237 @@
+User1 was added
+They are player number 1
+User2 was added
+They are player number 2
+User3 was added
+They are player number 3
+User4 was added
+They are player number 4
+User5 was added
+They are player number 5
+User6 was added
+They are player number 6
+User1 is the current player
+They have rolled a 1
+User1's new location is 1
+The category is Science
+Science Question 0
+Question was incorrectly answered
+User1 was sent to the penalty box
+User2 is the current player
+They have rolled a 1
+User2's new location is 1
+The category is Science
+Science Question 1
+Answer was correct!!!!
+User2 now has 1 Gold Coins.
+User3 is the current player
+They have rolled a 1
+User3's new location is 1
+The category is Science
+Science Question 2
+Answer was correct!!!!
+User3 now has 1 Gold Coins.
+User4 is the current player
+They have rolled a 1
+User4's new location is 1
+The category is Science
+Science Question 3
+Answer was correct!!!!
+User4 now has 1 Gold Coins.
+User5 is the current player
+They have rolled a 1
+User5's new location is 1
+The category is Science
+Science Question 4
+Answer was correct!!!!
+User5 now has 1 Gold Coins.
+User6 is the current player
+They have rolled a 1
+User6's new location is 1
+The category is Science
+Science Question 5
+Answer was correct!!!!
+User6 now has 1 Gold Coins.
+User1 is the current player
+They have rolled a 1
+User1 is getting out of the penalty box
+User1's new location is 2
+The category is Sports
+Sports Question 0
+Answer was correct!!!!
+User1 now has 1 Gold Coins.
+User2 is the current player
+They have rolled a 1
+User2's new location is 2
+The category is Sports
+Sports Question 1
+Answer was correct!!!!
+User2 now has 2 Gold Coins.
+User3 is the current player
+They have rolled a 1
+User3's new location is 2
+The category is Sports
+Sports Question 2
+Answer was correct!!!!
+User3 now has 2 Gold Coins.
+User4 is the current player
+They have rolled a 1
+User4's new location is 2
+The category is Sports
+Sports Question 3
+Answer was correct!!!!
+User4 now has 2 Gold Coins.
+User5 is the current player
+They have rolled a 1
+User5's new location is 2
+The category is Sports
+Sports Question 4
+Answer was correct!!!!
+User5 now has 2 Gold Coins.
+User6 is the current player
+They have rolled a 1
+User6's new location is 2
+The category is Sports
+Sports Question 5
+Answer was correct!!!!
+User6 now has 2 Gold Coins.
+User1 is the current player
+They have rolled a 1
+User1's new location is 3
+The category is Rock
+Rock Question 0
+Answer was correct!!!!
+User1 now has 2 Gold Coins.
+User2 is the current player
+They have rolled a 1
+User2's new location is 3
+The category is Rock
+Rock Question 1
+Answer was correct!!!!
+User2 now has 3 Gold Coins.
+User3 is the current player
+They have rolled a 1
+User3's new location is 3
+The category is Rock
+Rock Question 2
+Answer was correct!!!!
+User3 now has 3 Gold Coins.
+User4 is the current player
+They have rolled a 1
+User4's new location is 3
+The category is Rock
+Rock Question 3
+Answer was correct!!!!
+User4 now has 3 Gold Coins.
+User5 is the current player
+They have rolled a 1
+User5's new location is 3
+The category is Rock
+Rock Question 4
+Answer was correct!!!!
+User5 now has 3 Gold Coins.
+User6 is the current player
+They have rolled a 1
+User6's new location is 3
+The category is Rock
+Rock Question 5
+Answer was correct!!!!
+User6 now has 3 Gold Coins.
+User1 is the current player
+They have rolled a 1
+User1's new location is 4
+The category is Pop
+Pop Question 0
+Answer was correct!!!!
+User1 now has 3 Gold Coins.
+User2 is the current player
+They have rolled a 1
+User2's new location is 4
+The category is Pop
+Pop Question 1
+Answer was correct!!!!
+User2 now has 4 Gold Coins.
+User3 is the current player
+They have rolled a 1
+User3's new location is 4
+The category is Pop
+Pop Question 2
+Answer was correct!!!!
+User3 now has 4 Gold Coins.
+User4 is the current player
+They have rolled a 1
+User4's new location is 4
+The category is Pop
+Pop Question 3
+Answer was correct!!!!
+User4 now has 4 Gold Coins.
+User5 is the current player
+They have rolled a 1
+User5's new location is 4
+The category is Pop
+Pop Question 4
+Answer was correct!!!!
+User5 now has 4 Gold Coins.
+User6 is the current player
+They have rolled a 1
+User6's new location is 4
+The category is Pop
+Pop Question 5
+Answer was correct!!!!
+User6 now has 4 Gold Coins.
+User1 is the current player
+They have rolled a 1
+User1's new location is 5
+The category is Science
+Science Question 6
+Answer was correct!!!!
+User1 now has 4 Gold Coins.
+User2 is the current player
+They have rolled a 1
+User2's new location is 5
+The category is Science
+Science Question 7
+Answer was correct!!!!
+User2 now has 5 Gold Coins.
+User3 is the current player
+They have rolled a 1
+User3's new location is 5
+The category is Science
+Science Question 8
+Answer was correct!!!!
+User3 now has 5 Gold Coins.
+User4 is the current player
+They have rolled a 1
+User4's new location is 5
+The category is Science
+Science Question 9
+Answer was correct!!!!
+User4 now has 5 Gold Coins.
+User5 is the current player
+They have rolled a 1
+User5's new location is 5
+The category is Science
+Science Question 10
+Answer was correct!!!!
+User5 now has 5 Gold Coins.
+User6 is the current player
+They have rolled a 1
+User6's new location is 5
+The category is Science
+Science Question 11
+Answer was correct!!!!
+User6 now has 5 Gold Coins.
+User1 is the current player
+They have rolled a 1
+User1's new location is 6
+The category is Sports
+Sports Question 6
+Answer was correct!!!!
+User1 now has 5 Gold Coins.
+User2 is the current player
+They have rolled a 1
+User2's new location is 6
+The category is Sports
+Sports Question 7
+Answer was correct!!!!
+User2 now has 6 Gold Coins.
